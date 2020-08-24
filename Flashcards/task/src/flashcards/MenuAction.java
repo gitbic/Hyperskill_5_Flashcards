@@ -1,9 +1,9 @@
 package flashcards;
 
 enum MenuAction {
-    PRINT,
     ADD,
     REMOVE,
+    PRINT,
     IMPORT,
     EXPORT,
     ASK,
